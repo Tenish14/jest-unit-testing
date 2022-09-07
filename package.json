@@ -1,0 +1,26 @@
+{
+  "name": "jest_unit_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tenish14/jest-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "Tenish <Tenish14@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tenish14/jest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/Tenish14/jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
